@@ -1,8 +1,15 @@
-## Extended ACL Lab
+## Topology Overview
+- 2 Routers
+- 2 LAN segments
+- DHCP enabled
 
-Packet Tracer lab demonstrating extended ACL configuration.
+## ACL Rules
+- Permit HTTP from LAN1 to LAN2
+- Deny all other traffic
 
-### Objectives
-- Configure extended access lists
-- Apply ACLs inbound/outbound
-- Verify traffic filtering
+## Verification Commands
+- show access-lists
+- show ip interface
+- ping
+- traceroute
+
