@@ -20,14 +20,14 @@ Each lab focuses on real-world network configurations including VLANs, routing p
 Each lab is provided as a Cisco Packet Tracer (`.pkt`) file.
 
 Example labs include:
-- `Configuration 1.pkt` 
+- `ExtendedAcls.pkt` 
 
 Additional labs will be added as coursework progresses.
 
 ---
 
 ## Tools Used
-- Cisco Packet Tracer (version 8.x or newer)
+- Cisco Packet Tracer 
 - Cisco IOS CLI
 
 ---
@@ -48,4 +48,4 @@ Additional labs will be added as coursework progresses.
 
 ## Author
 Jayshawn Dixon  
-Cybersecurity & Networking Intern/Student
+Computer & Network Engineer 
